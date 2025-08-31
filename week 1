@@ -1,0 +1,24 @@
+# Week 1: Python Basics & Tinkercad Keychain
+
+## Learning Goals
+- [ ] Learn Python variables and arithmetic
+- [ ] Explore Tinkercad interface
+- [ ] Create a simple keychain design
+- [ ] Export STL and take a screenshot
+- [ ] Update GitHub repository with files and README
+
+## Files
+- `tinkercad-keychain.stl` → 3D model of keychain
+- `screenshot.png` → Rendered image
+- `python_basics.py` → Python exercises
+
+## Reflection
+- Challenges faced this week:
+  - [ ] Example: Understanding Python syntax
+  - [ ] Example: Positioning shapes in Tinkercad
+- Key skills learned:
+  - Python variables & print statements
+  - Tinkercad navigation and basic shapes
+- Notes for next week:
+  - Practice loops in Python
+  - Explore grouping shapes in Tinkercad
