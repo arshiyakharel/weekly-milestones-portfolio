@@ -2,21 +2,21 @@
 
 ## Learning Goals
 - [ ] Learn Python variables and arithmetic
-- [ ] Explore Tinkercad interface
-- [ ] Create a simple design following tutorials
-- [ ] Export STL and take a screenshot
+- [x] Explore Tinkercad interface
+- [x] Export STL and take a screenshot
 - [ ] Update GitHub repository with files and README
 
 ## Files
+<img width="1458" height="716" alt="image" src="https://github.com/user-attachments/assets/9362c6c9-23b7-4d9e-923c-5270ec058d0b" />
 
 
 ## Reflection
 - Challenges faced this week:
   - [ ] Example: Understanding Python syntax
-  - [ ] Example: Positioning shapes in Tinkercad
+  - [x] Example: Positioning shapes in Tinkercad
 - Key skills learned:
   - Python variables & print statements
   - Tinkercad navigation and basic shapes
 - Notes for next week:
   - Practice loops in Python
-  - Explore grouping shapes in Tinkercad
+  - Explore next 6 tutorials in Tinkercad
