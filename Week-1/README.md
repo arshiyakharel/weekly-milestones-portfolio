@@ -7,7 +7,10 @@
 - [ ] Update GitHub repository with files and README
 
 ## Files
+- TinkerCAD - all starter tutorials completed (12)
 <img width="1458" height="716" alt="image" src="https://github.com/user-attachments/assets/9362c6c9-23b7-4d9e-923c-5270ec058d0b" />
+
+- Python - 
 
 
 ## Reflection
