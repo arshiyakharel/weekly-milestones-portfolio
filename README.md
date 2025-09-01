@@ -18,16 +18,22 @@ The goal is to develop a **well-rounded skill set for medical device design and 
 - [Week 6: Reflection & Portfolio Summary](Week-6/README.md) ⬜
 
 ## Python Weekly Progress
+| **Week** | **Topic**                                     | **Resource**                                                                                                                                               |
+| -------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**    | Python Basics (syntax, variables, data types) | [LearnPython.org: Basics](https://www.learnpython.org/) + [Google’s Python Class Intro](https://developers.google.com/edu/python)                          |
+| **2**    | Control Flow (if, loops)                      | [Google’s Python Class: Basic Exercises](https://developers.google.com/edu/python)                                                                         |
+| **3**    | Functions & Collections (lists, dicts)        | [LearnPython.org: Lists, Dictionaries, Functions](https://www.learnpython.org/)                                                                            |
+| **4**    | File I/O + Intro to NumPy                     | [W3Schools: File Handling](https://www.w3schools.com/python/python_file_handling.asp) + [NumPy Basics](https://www.w3schools.com/python/numpy/default.asp) |
+| **5**    | Data Visualization with Matplotlib            | [W3Schools: Matplotlib Tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)                                                                    |
+| **6**    | Mini-Project: Biomedical Data Analysis        | Use NumPy & Matplotlib to **plot ECG or sensor data from a CSV** (I'll give you sample data + code template)                                               |
+
+## Some more useful websites
+
 | **Week** | **Focus**                                 | **Key Resource**                                           |
 | -------- | ----------------------------------------- | ---------------------------------------------------------- |
-| 1        | Python fundamentals                       | YT for biomedical engineers ([YouTube][1])                 |
-| 2        | Control flow & functions                  | Any beginner Python resource                               |
-| 3        | Data structures & visualization           | NumPy & Matplotlib basics                                  |
 | 4        | Bio-image processing                      | DataCamp: Biomedical Image Analysis ([DataCamp][2])        |
 | 5        | Python embedded (MicroPython, micro\:bit) | Real Python embedded Python tutorial ([Real Python][3])    |
 | 6        | Embedded firmware concepts                | FreeCodeCamp embedded systems handbook ([freeCodeCamp][4]) |
 
-[1]: https://www.youtube.com/watch?v=9Se3_Q3uaro&utm_source=chatgpt.com "Introduction to Python Programming for Biomedical Engineers"
-[2]: https://www.datacamp.com/courses/biomedical-image-analysis-in-python?utm_source=chatgpt.com "Biomedical Image Analysis in Python Course - DataCamp"
 [3]: https://realpython.com/embedded-python/?utm_source=chatgpt.com "Embedded Python: Build a Game on the BBC micro:bit"
 [4]: https://www.freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/?utm_source=chatgpt.com "Learn Embedded Systems Firmware Basics – A Handbook for ..."
