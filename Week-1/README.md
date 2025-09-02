@@ -1,7 +1,7 @@
 # Week 1: Python & Tinkercad Basics
 
 ## Learning Goals
-- [ ] Learn Python variables and arithmetic
+- [ ] Complete the Introduction to Google for Education Python course
 - [x] Explore Tinkercad interface
 - [x] Export STL and take a screenshot
 - [ ] Update GitHub repository with files and README
@@ -21,5 +21,5 @@
   - Python variables & print statements
   - Tinkercad navigation and basic shapes
 - Notes for next week:
-  - Practice loops in Python
+  - Complete the next section for Python (Lecture 2 - Lists and Sorting)
   - Explore next 6 tutorials in Tinkercad
