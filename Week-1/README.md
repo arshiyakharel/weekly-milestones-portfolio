@@ -11,11 +11,13 @@
 <img width="1458" height="716" alt="image" src="https://github.com/user-attachments/assets/9362c6c9-23b7-4d9e-923c-5270ec058d0b" />
 
 - Python - 
+Tutorials completed
+[x] Hello World
+[x] Variables and Types
 src = "https://www.learnpython.org/"
-
 ## Reflection
 - Challenges faced this week:
-  - [ ] Example: Understanding Python syntax
+  - [x ] Example: Understanding Python syntax
   - [x] Example: Positioning shapes in Tinkercad
 - Key skills learned:
   - Python variables & print statements
