@@ -1,17 +1,17 @@
 # Week 1: Python & Tinkercad Basics
 
 ## Learning Goals
-- [ ] Complete the Introduction to Google for Education Python course
+- [x] Complete 2 python tutorials on 'learnpython.org'
 - [x] Explore Tinkercad interface
 - [x] Export STL and take a screenshot
-- [ ] Update GitHub repository with files and README
+- [x] Update GitHub repository with files and README
 
 ## Files
 - TinkerCAD - all starter tutorials completed (12)
 <img width="1458" height="716" alt="image" src="https://github.com/user-attachments/assets/9362c6c9-23b7-4d9e-923c-5270ec058d0b" />
 
 - Python - 
-
+src = "https://www.learnpython.org/"
 
 ## Reflection
 - Challenges faced this week:
@@ -21,5 +21,5 @@
   - Python variables & print statements
   - Tinkercad navigation and basic shapes
 - Notes for next week:
-  - Complete the next section for Python (Lecture 2 - Lists and Sorting)
-  - Explore next 6 tutorials in Tinkercad
+  - Complete 1 hour of Python Tutorials (Lecture 2 - Lists and Sorting)
+  - Explore next hour of tutorials in Tinkercad
