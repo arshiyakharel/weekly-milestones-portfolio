@@ -24,10 +24,10 @@ The goal is to develop a **well-rounded skill set for medical device design and 
 | **2**    |Lists, Basic Operators, String Formatting, Basic String Operations, Conditions                     | LearnPython.org                                                                         |
 | **3**    | Loops, Functions, Classes and Objects        | [LearnPython.org: Lists, Functions](https://www.learnpython.org/)                                                                            |
 | **4**    | Dictionaries, Modules and Packages, Input and Output               | LearnPython.org |
-| **5**    | Advanced Topics, Get Certification from LearnX           | LearnPython.org                                                                   |
-| **6**    | Advanced Topics        |  LearnPython.org                                           |
+| **5**    | Advanced Topics        | LearnPython.org                                                                   |
+| **6**    | Advanced Topics, Get Certification from LearnX           |  LearnPython.org                                           |
 
-In the following weeks use these resources to make further plans
+**In the following weeks use the resources below to make further plans** 
 ## Some useful websites
 | **Number** | **Topic**                                     | **Resource**                                                                                                                                               |
 | -------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
