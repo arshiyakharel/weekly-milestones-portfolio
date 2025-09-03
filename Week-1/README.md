@@ -17,7 +17,7 @@ Tutorials completed
 src = "https://www.learnpython.org/"
 ## Reflection
 - Challenges faced this week:
-  - [x ] Example: Understanding Python syntax
+  - [x] Example: Understanding Python syntax
   - [x] Example: Positioning shapes in Tinkercad
 - Key skills learned:
   - Python variables & print statements
