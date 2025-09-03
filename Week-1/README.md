@@ -12,8 +12,8 @@
 
 - Python - 
 Tutorials completed
-[x] Hello World
-[x] Variables and Types
+- [x] Hello World
+- [x] Variables and Types
 src = "https://www.learnpython.org/"
 ## Reflection
 - Challenges faced this week:
