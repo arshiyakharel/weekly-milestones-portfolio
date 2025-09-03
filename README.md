@@ -20,20 +20,28 @@ The goal is to develop a **well-rounded skill set for medical device design and 
 ## Python Weekly Progress
 | **Week** | **Topic**                                     | **Resource**                                                                                                                                               |
 | -------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**    | Python Basics (syntax, variables, data types) | [LearnPython.org: Basics](https://www.learnpython.org/)                  |
+| **2**    |Lists, Basic Operators, String Formatting, Basic String Operations, Conditions                     | LearnPython.org                                                                         |
+| **3**    | Loops, Functions, Classes and Objects        | [LearnPython.org: Lists, Functions](https://www.learnpython.org/)                                                                            |
+| **4**    | Dictionaries, Modules and Packages, Input and Output               | LearnPython.org |
+| **5**    | Advanced Topics           | LearnPython.org                                                                   |
+| **6**    | Advanced Topics        |  LearnPython.org                                           |
+
+
+## Some useful websites
+| **Number** | **Topic**                                     | **Resource**                                                                                                                                               |
+| -------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**    | Python Basics (syntax, variables, data types) | [LearnPython.org: Basics](https://www.learnpython.org/) + [Google’s Python Class Intro](https://developers.google.com/edu/python)                          |
 | **2**    | Control Flow (if, loops)                      | [Google’s Python Class: Basic Exercises](https://developers.google.com/edu/python)                                                                         |
 | **3**    | Functions & Collections (lists, dicts)        | [LearnPython.org: Lists, Dictionaries, Functions](https://www.learnpython.org/)                                                                            |
 | **4**    | File I/O + Intro to NumPy                     | [W3Schools: File Handling](https://www.w3schools.com/python/python_file_handling.asp) + [NumPy Basics](https://www.w3schools.com/python/numpy/default.asp) |
 | **5**    | Data Visualization with Matplotlib            | [W3Schools: Matplotlib Tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)                                                                    |
-| **6**    | Mini-Project: Biomedical Data Analysis        | Use NumPy & Matplotlib to **plot ECG or sensor data from a CSV** (I'll give you sample data + code template)                                               |
+| **6**    | Mini-Project: Biomedical Data Analysis        | Use NumPy & Matplotlib to **plot ECG or sensor data from a CSV** (I'll give you sample data + code template)
 
-## Some more useful websites
-
-| **Week** | **Focus**                                 | **Key Resource**                                           |
 | -------- | ----------------------------------------- | ---------------------------------------------------------- |
-| 4        | Bio-image processing                      | DataCamp: Biomedical Image Analysis ([DataCamp][2])        |
-| 5        | Python embedded (MicroPython, micro\:bit) | Real Python embedded Python tutorial ([Real Python][3])    |
-| 6        | Embedded firmware concepts                | FreeCodeCamp embedded systems handbook ([freeCodeCamp][4]) |
+| 7        | Bio-image processing                      | DataCamp: Biomedical Image Analysis ([DataCamp][2])        |
+| 8        | Python embedded (MicroPython, micro\:bit) | Real Python embedded Python tutorial ([Real Python][3])    |
+| 9        | Embedded firmware concepts                | FreeCodeCamp embedded systems handbook ([freeCodeCamp][4]) |
 
 [3]: https://realpython.com/embedded-python/?utm_source=chatgpt.com "Embedded Python: Build a Game on the BBC micro:bit"
 [4]: https://www.freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/?utm_source=chatgpt.com "Learn Embedded Systems Firmware Basics – A Handbook for ..."
