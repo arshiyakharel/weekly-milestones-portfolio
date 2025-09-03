@@ -24,10 +24,10 @@ The goal is to develop a **well-rounded skill set for medical device design and 
 | **2**    |Lists, Basic Operators, String Formatting, Basic String Operations, Conditions                     | LearnPython.org                                                                         |
 | **3**    | Loops, Functions, Classes and Objects        | [LearnPython.org: Lists, Functions](https://www.learnpython.org/)                                                                            |
 | **4**    | Dictionaries, Modules and Packages, Input and Output               | LearnPython.org |
-| **5**    | Advanced Topics           | LearnPython.org                                                                   |
+| **5**    | Advanced Topics, Get Certification from LearnX           | LearnPython.org                                                                   |
 | **6**    | Advanced Topics        |  LearnPython.org                                           |
 
-
+In the following weeks use these resources to make further plans
 ## Some useful websites
 | **Number** | **Topic**                                     | **Resource**                                                                                                                                               |
 | -------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,8 +37,6 @@ The goal is to develop a **well-rounded skill set for medical device design and 
 | **4**    | File I/O + Intro to NumPy                     | [W3Schools: File Handling](https://www.w3schools.com/python/python_file_handling.asp) + [NumPy Basics](https://www.w3schools.com/python/numpy/default.asp) |
 | **5**    | Data Visualization with Matplotlib            | [W3Schools: Matplotlib Tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)                                                                    |
 | **6**    | Mini-Project: Biomedical Data Analysis        | Use NumPy & Matplotlib to **plot ECG or sensor data from a CSV** (I'll give you sample data + code template)
-
-| -------- | ----------------------------------------- | ---------------------------------------------------------- |
 | 7        | Bio-image processing                      | DataCamp: Biomedical Image Analysis ([DataCamp][2])        |
 | 8        | Python embedded (MicroPython, micro\:bit) | Real Python embedded Python tutorial ([Real Python][3])    |
 | 9        | Embedded firmware concepts                | FreeCodeCamp embedded systems handbook ([freeCodeCamp][4]) |
