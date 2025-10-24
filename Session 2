@@ -6,8 +6,8 @@ To understand how Python performs arithmetic and logical operations, and how to 
 ---
 
 ## 🔍 Topics Covered
-
-
+Basic operators: BODMAS in python; the Modulo operator (%); using operators with strings and multiplying strings to create repetitions. 
+String Formatting: Using C-style string formatting (%s, %d, %f)
 
 ---
 
@@ -24,10 +24,10 @@ To understand how Python performs arithmetic and logical operations, and how to 
 * Reflection (write in this section):
 
   * What was easy?
-  * What took more time to understand?
+  * What took more time to understand? - understanding the modulo operator
   * What new syntax or logic clicked for you today?
 
 ---
 
 **Next Session Preview:**
-Data Structures – Lists and Dictionaries
+Basic String Operators, Conditions and Loops...
