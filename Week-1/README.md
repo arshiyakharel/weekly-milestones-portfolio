@@ -1,4 +1,4 @@
-# Week 1: Python & Tinkercad Basics
+# Session 1: Python & Tinkercad Basics
 
 ## Learning Goals
 - [x] Complete 2 python tutorials on 'learnpython.org'
