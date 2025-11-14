@@ -1,0 +1,14 @@
+# Python Fundamentals – Session 3
+
+## Description
+Exercises from **Session 3** of LearnPython.org tutorials, covering **Basic String Operations, Conditions, and Loops**. Includes practice with string manipulation, conditional logic, and iteration over lists and ranges.
+
+## Topics Covered
+- **Basic String Operations**: indexing, slicing, formatting, splitting, and case conversion  
+- **Conditions**: `if`, `elif`, `else`, comparison operators, and logical operators (`and`, `or`, `not`)  
+- **Loops**: `for` and `while` loops, using `break` and `continue`, filtering data
+
+## Next Steps
+- Functions  
+- Classes and Objects  
+- Dictionaries
