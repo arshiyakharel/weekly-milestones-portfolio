@@ -1,23 +1,13 @@
-# Learning Plan: Python, Tinkercad, Codeblocks & Circuits
+# Learning Plan: Python
 
 This repository documents my journey building foundational skills in:
 
-- Python programming 🐍
-- Tinkercad 3D design 🏗️
-- Tinkercad Codeblocks 🧩
-- Basic electronics and circuits ⚡
+- Python programming
 
 The goal is to develop a **well-rounded skill set for medical device design and prototyping**.
 
-## TinkerCAD Weekly Progress 
-- [Session 1: Tinkercad Basics](Week-1/README.md) ✅
-- [Session 2: Loops & Stacked Shapes](Week-2/README.md) ⬜
-- [Session 3: Circuits & Python Functions](Week-3/README.md) ⬜
-- [Session 4: Codeblocks & Python Plots](Week-4/README.md) ⬜
-- [Session 5: Sensor Enclosure & Circuits](Week-5/README.md) ⬜
-- [Session 6: Reflection & Portfolio Summary](Week-6/README.md) ⬜
 
-## Python Weekly Progress
+## Python Session Progress
 | **Session** | **Topic**                                     | **Resource**                                                                                                                                               |
 | -------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**    | Python Basics (syntax, variables, data types) | [LearnPython.org: Basics](https://www.learnpython.org/)                  |
