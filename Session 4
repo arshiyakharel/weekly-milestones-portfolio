@@ -1,0 +1,21 @@
+Aim: complete the following tutorials
+functions (done)
+classes 
+
+challenges/ things learnt:
+functions: 
+In this exercise, I learned how to differentiate between a list 
+and a single element in the list, and how data flows through functions:
+the list is returned, each element is looped over,
+and a function is called for each item. 
+I also practiced string concatenation and formatting to create dynamic 
+messages.
+
+objects and classes:
+In this exercise, I learned not to put commas in numbers in
+Python and that it’s better to use neutral defaults in a class 
+and assign real values to each instance.
+
+next steps: 
+Dictionaries
+Modules and Packages
